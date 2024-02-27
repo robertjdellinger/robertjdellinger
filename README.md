@@ -12,4 +12,4 @@ I'm Robert Dellinger (they/them), a Biology M.S. student at @SilbigerLab, resear
 
 ### Let's Connect! 🌟
 
-I'm open to discussions, collaborations, or simply exchanging ideas. Reach out to me via email at bobby.dellinger[at]my.csun.edu. Let's work together to uncover the secrets of our oceans and contribute to a sustainable future! 🌍💡
+I'm open to discussions, collaborations, or simply exchanging ideas. Reach out to me via email at bobby.dellinger[at]my.csun.edu. 🌍💡
