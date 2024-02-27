@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Robert Dellinger (they/them), a Biology M.S. student at @SilbigerLab, researching the interactive effects of ocean acidification and warming on marine organisms. 🌊 My passion lies in understanding how our oceans are responding to climate change and other anthropogenic impacts.
+I'm Robert Dellinger (they/them), a Biology M.S. student at @SilbigerLab, researching the interactive effects of ocean acidification and warming on marine organisms. 🌊 
 
 ### What I bring to the table:
 
