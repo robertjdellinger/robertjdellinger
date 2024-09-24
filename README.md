@@ -1,15 +1,15 @@
 ### Hi there! 👋
 
-I'm Robert Dellinger (they/them), a Biology M.S. student at @SilbigerLab, researching the interactive effects of ocean acidification and warming on marine organisms. 🌊 
+I'm **Robert Dellinger (he/they)**, a **Ph.D. student in Atmospheric and Oceanic Sciences at UCLA** and a **researcher at the Critical Ecology Lab**. My work focuses on understanding the socio-ecological drivers of environmental change.
 
 ### What I bring to the table:
 
-- **Academic Background:** Undergraduate Degrees in Marine & Coastal Science (B.S.) and International Relations (B.A.). Currently pursuing my Master's degree in Biology, specializing in marine ecology.
-  
-- **Research Focus:** I'm deeply interested in investigating environmental change within marine ecosystems and understanding implications for organismal and ecosystem level processes.
-  
-- **Collaboration Opportunity:** I'm eager to collaborate on data science projects and research endeavors centered around marine ecology and climate change.
+- **Academic Background:** I hold a **Master’s degree in Biology (M.Sc.)** and undergraduate degrees in **Marine & Coastal Science (B.S.)** and **International Relations (B.A.)**. As a **National Science Foundation Graduate Research Fellow**, I’m pursuing a **Ph.D. in Atmospheric and Oceanic Sciences**.
+
+- **Research Focus:** My research delves into the interactions between **social and ecological systems**, examining how social and environmental change, influences organismal and ecosystem processes.
+
+- **Collaboration Opportunity:** I’m eager to collaborate on projects related to **climate change**, **marine ecology**, and **socio-ecological interactions**, especially those integrating **data science** and **biogeochemical analysis**.
 
 ### Let's Connect! 🌟
 
-I'm open to discussions, collaborations, or simply exchanging ideas. Reach out to me via email at bobby.dellinger[at]my.csun.edu. 🌍💡
+I’m always open to discussions, collaborations, or exchanging ideas. Feel free to reach out to me via email at rjdellinger[at]ucla.edu. 🌍💡
