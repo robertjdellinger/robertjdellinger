@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm **Robert Dellinger (he/they)**, a **Ph.D. student in Atmospheric and Oceanic Sciences at UCLA** and a **researcher at the Critical Ecology Lab**. My work focuses on understanding the socio-ecological drivers of environmental change.
+I'm **Robert Dellinger (he/they)**, a **Ph.D. student in Atmospheric and Oceanic Sciences at UCLA**. My work focuses on understanding the socio-ecological drivers of environmental change.
 
 - **Academic Background:** I hold a **Master’s degree in Biology (M.Sc.)** and undergraduate degrees in **Marine & Coastal Science (B.S.)** and **International Relations (B.A.)**. As a **National Science Foundation Graduate Research Fellow**, I’m pursuing a **Ph.D. in Atmospheric and Oceanic Sciences**.
 
