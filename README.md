@@ -14,7 +14,7 @@ NSF Graduate Research Fellow | UCLA Center for Diverse Leadership Fellow
 
 ## ✋🏽 About Me
 
-I’m a Ph.D. student investigating how social systems and biogeochemical cycles interact to drive environmental change — and how these shifts reconfigure ecosystem processes and patterns.
+I’m a Ph.D. student investigating how social systems and biogeochemical cycles interact to drive environmental change — and how these shifts influence ecosystem processes and patterns.
 ---
 
 ## 🔬 Research & Roles
