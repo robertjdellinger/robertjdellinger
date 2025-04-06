@@ -9,8 +9,7 @@ NSF Graduate Research Fellow | UCLA Center for Diverse Leadership Fellow
 
 ## ✋🏽 About Me
 
-I’m a Ph.D. student investigating how social systems drive environmental change and their consequences for ecosystem processes and patterns.
-
+Every species, not only the human species, is constantly constructing and destroying the environment it inhabits. I research the narratives embedded in shifting ecosystem patterns and processes, examining how environmental changes such as ocean warming, acidification, and atmospheric pollution are shaped by systems of power, extraction, and inequality. As a Ph.D. student, I draw from ecology, biogeochemistry, and critical theory to explore how organisms and environments continuously codetermine one another. In my free time, I enjoy reading about history and politics, exploring music and art, and spending time in nature.
 
 ## 🔬 Research & Roles
 
