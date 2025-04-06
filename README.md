@@ -4,7 +4,7 @@
 **Ph.D. Student | 🌍 Atmospheric & Oceanic Sciences | UCLA**  
 NSF Graduate Research Fellow | UCLA Center for Diverse Leadership Fellow  
 
-[![Site](https://img.shields.io/badge/Site-robdellinger.com-black?logo=internet-explorer&logoColor=white)](https://robdellinger.com) [![ORCiD](https://img.shields.io/badge/ORCiD-0009--0009--3524--4041-black?logo=orcid&logoColor=white)](https://orcid.org/0009-0009-3524-4041)  ![Pride Badge](https://pride-badges.pony.workers.dev/static/v1?label=&labelColor=%23555&stripeWidth=8&stripeColors=E40303%2CFF8C00%2CFFED00%2C008026%2C24408E%2C732982)
+[![Site](https://img.shields.io/badge/Site-robdellinger.com-black?logo=internet-explorer&logoColor=white&labelColor=black)](https://robdellinger.com) [![ORCiD](https://img.shields.io/badge/ORCiD-0009--0009--3524--4041-black?logo=orcid&logoColor=white&labelColor=black)](https://orcid.org/0009-0009-3524--4041) ![Pride Badge](https://pride-badges.pony.workers.dev/static/v1?label=&labelColor=%23555&stripeWidth=8&stripeColors=E40303%2CFF8C00%2CFFED00%2C008026%2C24408E%2C732982)
 
 ---
 
