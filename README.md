@@ -12,7 +12,6 @@ NSF Graduate Research Fellow | UCLA Center for Diverse Leadership Fellow
 
 I’m a Ph.D. student investigating how social systems drive environmental change and their consequences for ecosystem processes and patterns.
 
----
 
 ## 🔬 Research & Roles
 
@@ -21,7 +20,6 @@ Researcher | Coder | Systems Thinker
 - Investigating how ocean warming and acidification affect the energetic demands of marine organisms, alter interspecies interactions, and restructure the ecosystems they construct.
 - Analyzing socio-ecological interactions, including how historical segregation and economic inequality shape air pollution disparities and patterns of ecological change  
 
----
 
 ## 🎓 Academic Background
 
@@ -31,7 +29,6 @@ Researcher | Coder | Systems Thinker
 - NSF Graduate Research Fellow  
 - UCLA Center for Diverse Leadership Fellow
 
----
 
 ## 🤝🏽 Collaboration Interests
 
@@ -40,7 +37,6 @@ Researcher | Coder | Systems Thinker
 -  Socio-Ecological Data Integration  
 -  Ecosystem Modeling & Biogeochemical Cycles
 
----
 
 ## 🛠️ Languages & Tools
 
