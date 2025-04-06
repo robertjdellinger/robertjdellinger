@@ -41,7 +41,10 @@ Researcher | Coder | Systems Thinker
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)  [![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)  [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)  [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)  
 
+
+
 [![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  [![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)  [![ArcGIS](https://img.shields.io/badge/-ArcGIS-4479A1?logo=esri&logoColor=white)](https://www.esri.com/)  [![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)](https://www.latex-project.org/)  
 
 [![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)  [![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html) [![InDesign](https://img.shields.io/badge/-InDesign-EA4C89?logo=adobeindesign&logoColor=white)](https://www.adobe.com/products/indesign.html)
+
 ---
