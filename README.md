@@ -22,17 +22,14 @@ Researcher | Coder | Systems Thinker
 ## 🎓 Academic Background
 
 - M.S. Biological Sciences  
-- B.S. Marine & Coastal Science  
-- B.A. International Relations  
-- NSF Graduate Research Fellow  
-- UCLA Center for Diverse Leadership Fellow
+- B.S. Marine & Coastal Science / B.A. International Relations  
+- NSF Graduate Research Fellow & UCLA Center for Diverse Leadership Fellow
 
 
 ## 🤝🏽 Collaboration Interests
 
--  Climate Change & Climate Justice  
--  Evolution & Ecology in Changing Environments  
--  Socio-Ecological Data Integration  
+-  Global Change Ecology  
+-  Evolution & Ecology 
 -  Ecosystem Modeling & Biogeochemical Cycles
 
 
