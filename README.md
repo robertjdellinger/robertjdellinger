@@ -9,13 +9,13 @@ NSF Graduate Research Fellow | UCLA Center for Diverse Leadership Fellow
 
 ## ✋🏽 About Me
 
-Every species, not only the human species, is actively constructing and destroying the environment it inhabits. I research the narratives embedded in shifting ecosystem patterns and processes, examining how environmental changes such as ocean warming, acidification, and atmospheric pollution are shaped by systems of power and extraction. As a Ph.D. student, I draw from ecology, biogeochemistry, and critical theory to explore how organisms and environments codetermine one another. In my free time, I enjoy reading about history and politics, exploring music and art, coding, and spending time in nature.
+Robert Dellinger is a PhD student in the Atmospheric and Oceanic Sciences Department at UCLA, under the mentorship of Drs. Aradhna Tripati and Robert Eagle. They are currently a recipient of the National Science Foundation Graduate Research Fellowship, a Fellow at CDLS, and a NSF National Research Trainee. Rob previously earned a Master of Science in Biology from California State University, Northridge, where they conducted research in the Quantitative Marine Ecology Lab, investigating the interactive effects of ocean acidification and warming on marine organisms. Focusing on physiological responses to future climate change scenarios, their research aims to understand how changes at the organismal level can scale up to influence broader ecosystem processes. Additionally, Rob has also researched changes in forest ecosystem function resulting from acid rain, exploring both the social and scientific aspects of these transformations. Outside of the lab, they co-founded the Climate Futures Studio, a collaborative space for scientists and artists to share optimistic visions of possible futures through storytelling. As a researcher and educator, Rob’s philosophy is shaped by the etiquette of conducting ecosystem research: the belief that we should leave environments – both natural and academic – better than we found them, not just for ourselves, but for future generations.
 
 ## 🔬 Research & Roles
 
 Researcher | Coder | Systems Thinker
 
-- Investigating how ocean warming and acidification affect the energetic demands of marine organisms, alter interspecies interactions, and restructure the ecosystems they construct.
+- Investigating how global change affects the energetic demands of marine organisms, alter interspecies interactions, and restructure the ecosystems they construct.
 - Analyzing socio-ecological interactions, including how historical segregation and economic inequality shape air pollution disparities and patterns of ecological change  
 
 
