@@ -13,9 +13,9 @@ Robert J. Dellinger (he/they) is an oceanic and atmospheric scientist whose work
 
 ## 🎓 Educational Background
 
-- Ph.D. Oceanic and Atmospheric Sciences, University of California, Los Angeles
-- M.S. Biological Sciences, California State University, Northridge
-- B.S. Marine & Coastal Science & B.A. International Relations, University of California, Davis
+- Ph.D. Student, Oceanic and Atmospheric Sciences, University of California, Los Angeles
+- M.S., Biological Sciences, California State University, Northridge
+- B.S., Marine & Coastal Science & B.A. International Relations, University of California, Davis
 
 ## 🤝🏽 Collaboration Interests
 
