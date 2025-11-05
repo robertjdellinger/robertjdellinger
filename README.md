@@ -9,13 +9,13 @@ NSF Graduate Research Fellow | UCLA Center for Diverse Leadership Fellow
 
 ## ✋🏽 About Me
 
-Robert Dellinger is a PhD student in the Atmospheric and Oceanic Sciences Department at UCLA, under the mentorship of Drs. Aradhna Tripati and Robert Eagle. They are currently a recipient of the National Science Foundation Graduate Research Fellowship, a Fellow at CDLS, and a NSF National Research Trainee. Rob previously earned a Master of Science in Biology from California State University, Northridge, where they conducted research in the Quantitative Marine Ecology Lab, investigating the interactive effects of ocean acidification and warming on marine organisms. Focusing on physiological responses to future climate change scenarios, their research aims to understand how changes at the organismal level can scale up to influence broader ecosystem processes. Additionally, Rob has also researched changes in forest ecosystem function resulting from acid rain, exploring both the social and scientific aspects of these transformations. Outside of the lab, they co-founded the Climate Futures Studio, a collaborative space for scientists and artists to share optimistic visions of possible futures through storytelling. As a researcher and educator, Rob’s philosophy is shaped by the etiquette of conducting ecosystem research: the belief that we should leave environments – both natural and academic – better than we found them, not just for ourselves, but for future generations.
+Robert J. Dellinger (he/they) is an oceanic and atmospheric scientist whose work spans marine and terrestrial systems, with an interest in investigating how ecosystems patterns, processes, and and outcomes are shaped by both physical (e.g. changes in temperature) and social (e.g. policy decisions) drivers of environmental change. As a Ph.D student in [Atmospheric and Oceanic Sciences at UCLA](https://atmos.ucla.edu/ ), Robert's research integrates biogeochemical proxies and ancient DNA to reconstruct long term environmental change and quantify shifts in community composition through time. Drawing on ecology and biogeochemistry through a critical theory lens, his research aims are to investigate how social systems and power shape ecosystem processes and, in turn, how changing environments will impact society. Robert previously attained an M.S. in Biology, a B.A. in International Relations, and a B.S. in Marine and Coastal Science, with training that emphasizes interdisciplinary methods and policy-informed research. He is currently a [National Science Foundation Graduate Research Fellow](https://www.nsfgrfp.org/), a [UCLA Center for Diverse Leadership Fellow](https://www.ioes.ucla.edu/cdls/), and a [NSF Science-Policy National Research Trainee](https://sustainableoceans.ucdavis.edu/program). Additionally, Robert is committed to expanding access to academia for historically excluded communities and believes the pursuit of knowledge should be accessible to anyone guided by curiosity and wonder. As a researcher and educator, he is guided by an ethic of stewardship that insists we leave environments, academic and natural alike, better than we found them.”
 
 ## 🎓 Educational Background
 
-- M.S. Biological Sciences  
-- B.S. Marine & Coastal Science / B.A. International Relations  
-- NSF Graduate Research Fellow & UCLA Center for Diverse Leadership Fellow
+- Ph.D. Oceanic and Atmospheric Sciences, University of California, Los Angeles
+- M.S. Biological Sciences, California State University, Northridge
+- B.S. Marine & Coastal Science & B.A. International Relations, University of California, Davis
 
 ## 🤝🏽 Collaboration Interests
 
@@ -23,12 +23,9 @@ Robert Dellinger is a PhD student in the Atmospheric and Oceanic Sciences Depart
 -  Evolution & Ecology 
 -  Ecosystem Modeling & Biogeochemical Cycles
 
-
 ## 🛠️ Languages & Tools
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)  [![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)  [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)  [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)  
-
-
 
 [![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  [![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)  [![ArcGIS](https://img.shields.io/badge/-ArcGIS-4479A1?logo=esri&logoColor=white)](https://www.esri.com/)  [![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)](https://www.latex-project.org/)  
 
