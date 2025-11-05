@@ -17,11 +17,12 @@ Robert J. Dellinger (he/they) is an oceanic and atmospheric scientist whose work
 - M.S., Biological Sciences, California State University, Northridge
 - B.S., Marine & Coastal Science & B.A. International Relations, University of California, Davis
 
-## 🤝🏽 Collaboration Interests
+## 🤝🏽 Interests
 
--  Global Change Ecology  
--  Evolution & Ecology 
--  Ecosystem Modeling & Biogeochemical Cycles
+-  Global Change Biology
+-  Quantitative Ecology
+-  Biogeochemistry
+-  Climate Justice and Policy
 
 ## 🛠️ Languages & Tools
 
