@@ -1,5 +1,5 @@
 ---
-# Robert J Dellinger (he/him, they/they)
+# Robert J Dellinger
 ---
 
 **Ph.D. Student | 🌍 Atmospheric & Oceanic Sciences | UCLA**  
